@@ -93,7 +93,7 @@ public class ExtensionCustomLogic extends ExtensionAdapter {
 
         try {
             if (equalsAnyIgnoreCase(text, "/start", "start", "help", "/help")) {
-                String help = "Your Personal Weather Guide\n\n" +
+                String help = "Your Personal Weather Guide123\n\n" +
                         "Commands:\n" +
                         "/weather <city>  - Current weather for a city\n" +
                         "/weather lat:<lat> lon:<lon> - Current weather by coordinates\n\n" +
